@@ -1,0 +1,31 @@
+body {
+  font-family: fantasy;
+  background: skyblue;
+  color: white;
+  text-align: center;
+  padding: 100px 100px;
+}
+
+#Background {
+background-size: cover;  
+}
+
+.pkg {
+  margin: 100px auto;
+}
+.ttl1 {
+  margin-top: 100px;
+}
+. c-site-header {
+  font: arial 
+}
+# navbar {
+  background: pink;
+}
+.c-site-footer {
+  background: pink;
+  color: blue;
+}
+.utube {
+  margin-top: 40px;
+}
